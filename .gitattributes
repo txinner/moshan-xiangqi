@@ -1,0 +1,7 @@
+* text=auto
+*.sh text eol=lf
+*.cmd text eol=crlf
+public/engine/pikafish.js -text
+*.wasm -text
+*.nnue.* -text
+*.png -text

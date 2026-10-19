@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {Script} from 'node:vm';
+const html=readFileSync(new URL('../dist/index.html',import.meta.url),'utf8');
+assert.doesNotMatch(html,/<script\b[^>]*\bsrc=/i,'startup must not wait for external scripts');
+assert.doesNotMatch(html,/<link\b[^>]*rel="stylesheet"/i,'startup must not wait for external stylesheets');
+assert.doesNotMatch(html,/@import\s|fonts\.googleapis\.com|fonts\.gstatic\.com/,'startup must not depend on remote fonts');
+const scripts=[...html.matchAll(/<script>([\s\S]*?)<\/script>/g)];
+assert.ok(scripts.length>0,'inline startup is present');
+for(const [,code] of scripts)new Script(code);
+assert.ok(html.indexOf('id="app"')<html.indexOf('<script>'),'app container exists before execution');
+console.log('PASS: self-contained startup, no remote fonts, valid JavaScript, correct document order.');

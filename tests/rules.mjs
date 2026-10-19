@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {fresh,restore,toGround,fromGround,destinations,legalMove,outcome} from '../rules.js';
+const p=fresh();
+assert.equal([...p.allDests().values()].reduce((n,d)=>n+[...d].length,0),44);
+for(let i=0;i<10;i++)assert.equal(fromGround(toGround('a'+i)),'a'+i);
+assert.ok(legalMove(p,'b0c2'));assert.equal(legalMove(p,'b0b2'),null);
+assert.ok(destinations(p).get('b1').includes('c3'));
+const old=p.fen();p.play(legalMove(p,'b0c2'));assert.equal(p.turn,'black');assert.equal(restore(old).fen(),old);
+const facing=restore('4k4/9/9/9/9/4R4/9/9/9/4K4 w 0 1');
+assert.equal(legalMove(facing,'e4d4'),null,'cannot expose flying generals');
+const blocked=restore('4k4/9/9/9/4p4/9/9/9/1P7/1N2K4 w 0 1');
+assert.equal(legalMove(blocked,'b0c2'),null,'horse leg blocks move');
+console.log('Passed: opening 44 moves, coordinates, illegal moves, horse leg, flying generals, restore.');
