@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite --host 127.0.0.1",
     "build": "vite build",
-    "test": "node tests/rules.mjs"
+    "test": "node tests/rules.mjs && node tests/easy-ai.mjs"
   },
   "dependencies": {
     "xiangqiground": "0.1.0",
@@ -16,5 +16,5 @@
   "devDependencies": {
     "vite": "^6.1.0"
   },
-  "description": "中国风象棋人机对战：五档棋力、悔棋、提示、棋谱与本地双击启动。"
+  "description": "中国风象棋人机对战：七档棋力、悔棋、提示、棋谱与本地双击启动。"
 }
