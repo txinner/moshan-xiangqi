@@ -38,15 +38,31 @@ export class RoomService{
       pos.play(move);record.check=pos.isCheck();game.history.push(record);game.fen=pos.fen();game.ended=outcome(pos);
       const key=pos.fen().split(' ').slice(0,2).join(' ');
       if(game.history.filter(h=>h.fen.split(' ').slice(0,2).join(' ')===key).length>=2)game.ended={winner:null,reason:'三次重复局面'};
+      game.swapRequest=null;
+    }else if(['swap-request','swap-accept','swap-decline','swap-cancel'].includes(body.action)){
+      if(!row.guest_hash||game.ended)error('双方入席且对局进行中才能换边',409);
+      if(body.version!==row.version)error('棋局已更新，请重新确认换边',409);
+      if(body.action==='swap-request'){
+        if(game.swapRequest)error('已有待处理的换边请求',409);
+        game.swapRequest={id:randomToken(),by:player};
+      }else{
+        const request=game.swapRequest;
+        if(!request||body.requestId!==request.id)error('换边请求已失效',409);
+        if(body.action==='swap-cancel'?request.by!==player:request.by===player)error('不能代替对方确认换边',403);
+        if(body.action==='swap-accept')game.hostColor=game.hostColor==='white'?'black':'white';
+        game.swapRequest=null;
+      }
     }else if(body.action==='resign'){
       if(!row.guest_hash||game.ended)error('当前不能认输',409);
       game.ended={winner:side==='white'?'black':'white',reason:'认输'};
+      game.swapRequest=null;
     }else if(body.action==='rematch'){
       if(!row.guest_hash||!game.ended)error('本局结束后才能再来一局',409);
       if(!game.ready.includes(player))game.ready.push(player);
       if(game.ready.length===2)state.game=newGame(game.round+1,game.hostColor==='white'?'black':'white');
     }else if(body.action==='leave'){
       state.closed=true;
+      game.swapRequest=null;
       if(!game.ended)game.ended={winner:row.guest_hash?(side==='white'?'black':'white'):null,reason:'对方离开房间'};
     }else error('未知操作');
     const result=await this.db.prepare('UPDATE rooms SET state=?,version=version+1,updated_at=?,expires_at=? WHERE code=? AND version=?').bind(JSON.stringify(state),Date.now(),Date.now()+ttl,code,row.version).run();

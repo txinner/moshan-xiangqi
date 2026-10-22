@@ -46,6 +46,10 @@ Node.js 22.13+，`pnpm install`。生产构建：`pnpm build`。前端位于 dis
 
 插画使用内置 ImageGen 生成，保存为 public/scholar.png。最终提示词：Create a refined cinematic Chinese ink painting game illustration, landscape 1536x1024. A handsome young adult Chinese male scholar swordsman with long black hair tied in a topknot, ivory and dark teal silk hanfu with subtle gold embroidery, sitting calmly behind a low table in a misty ancient mountain pavilion, thoughtful inviting expression, one hand holding a round wooden xiangqi piece. Character occupies right half, left half atmospheric empty dark teal mountains and pale mist for overlaid text. Jade mountains, ancient pine branches, delicate warm gold sunlight, painterly luxurious Chinese fantasy game art, restrained elegant muted teal, charcoal, ivory, antique gold palette. No text, no typography, no logos. Detailed beautiful face and hands, polished premium artwork.
 
+## 对局换边
+
+人机与残局模式点击“换边”即可交换你与电脑的红黑执子，保留局面、棋谱与计时；思考中的旧走法会取消。好友对战需对方明确同意，支持拒绝和取消请求；任一方继续落子会使待处理请求失效。换边后按新的执子方判断轮次、悔棋和胜负，已结束的对局不能换边。
+
 ## 界面预览
 
 ![墨山棋院对局界面：左侧棋友资料、中间立体棋盘、右侧棋谱及操作区](docs/screenshots/game.png)
