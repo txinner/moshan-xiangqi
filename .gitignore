@@ -1,8 +1,11 @@
 node_modules/
 dist/
-*.log
 *.zip
-.env
-.env.*
-.DS_Store
-Thumbs.db
+.sites-local/
+tests/*.png
+tests/*.json
+!public/source.zip
+
+.moshan-data/
+.wrangler/
+.sites-runtime/

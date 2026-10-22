@@ -1,11 +1,16 @@
 import http from 'node:http';
+import {existsSync} from 'node:fs';
+import {Readable} from 'node:stream';
+import {openLocalDatabase} from './server/node-db.js';
+import {handleRoomRequest} from './server/rooms.js';
+const roomDb=openLocalDatabase();
 import {createReadStream} from 'node:fs';
 import {stat,realpath} from 'node:fs/promises';
 import {resolve,relative,extname,isAbsolute,sep} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {spawn} from 'node:child_process';
 
-const root=await realpath(fileURLToPath(new URL('./dist/',import.meta.url)));
+const root=await realpath(fileURLToPath(new URL(existsSync(new URL('./dist/client/index.html',import.meta.url))?'./dist/client/':'./dist/',import.meta.url)));
 const noOpen=process.argv.includes('--no-open')||process.env.MOSHAN_NO_OPEN==='1';
 const portFlag=process.argv.indexOf('--port');
 const firstPort=portFlag<0?18765:Number(process.argv[portFlag+1]);
@@ -25,6 +30,7 @@ async function serve(req,res){
   res.setHeader('X-Content-Type-Options','nosniff');
   res.setHeader('Cache-Control','no-cache');
   try{
+    if((req.url||'').startsWith('/api/')){const url='http://'+req.headers.host+req.url;const chunks=[];for await(const chunk of req){chunks.push(chunk);if(chunks.reduce((n,c)=>n+c.length,0)>4096){res.writeHead(413);res.end();return;}}const response=await handleRoomRequest(new Request(url,{method:req.method,headers:req.headers,body:['GET','HEAD'].includes(req.method)?undefined:Buffer.concat(chunks)}),roomDb);res.writeHead(response.status,Object.fromEntries(response.headers));if(response.body)Readable.fromWeb(response.body).pipe(res);else res.end();return;}
     if(!['GET','HEAD'].includes(req.method)){res.writeHead(405,{'Allow':'GET, HEAD'});res.end();return;}
     const pathname=decodeURIComponent(new URL(req.url,'http://127.0.0.1').pathname);
     if(pathname==='/__moshan__/health'){

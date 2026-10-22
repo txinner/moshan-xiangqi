@@ -24,4 +24,4 @@ function inlineStartup(){
       writeFileSync(entry,html);
     }};
 }
-export default defineConfig({plugins:[inlineStartup()],server:{headers},preview:{headers},build:{target:'es2022',modulePreload:false,cssCodeSplit:false,rollupOptions:{output:{format:'iife',inlineDynamicImports:true}}}});
+export default defineConfig({plugins:[inlineStartup()],server:{headers},preview:{headers},build:{outDir:'dist/client',target:'es2022',modulePreload:false,cssCodeSplit:false,rollupOptions:{output:{format:'iife',inlineDynamicImports:true}}}});

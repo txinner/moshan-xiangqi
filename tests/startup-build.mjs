@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import {Script} from 'node:vm';
-const html=readFileSync(new URL('../dist/index.html',import.meta.url),'utf8');
+const html=readFileSync(new URL('../dist/client/index.html',import.meta.url),'utf8');
 assert.doesNotMatch(html,/<script\b[^>]*\bsrc=/i,'startup must not wait for external scripts');
 assert.doesNotMatch(html,/<link\b[^>]*rel="stylesheet"/i,'startup must not wait for external stylesheets');
 assert.doesNotMatch(html,/@import\s|fonts\.googleapis\.com|fonts\.gstatic\.com/,'startup must not depend on remote fonts');

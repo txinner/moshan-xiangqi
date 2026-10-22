@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "shiqingyaqu-551-004",
+    "title": "良将安边",
+    "fen": "2bk1ab2/4a4/9/p1P6/3NC4/4Pp3/P5n2/4B3N/4Ar3/1RBAK2cr w 0 1",
+    "source": "适情雅趣 · 第4局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L13"
+  },
+  {
+    "id": "shiqingyaqu-551-010",
+    "title": "鸳鸯戏水",
+    "fen": "4kab1C/4a4/9/1R7/4P1N2/2N3B2/1n5r1/4n4/4A4/c1BAK4 w 0 1",
+    "source": "适情雅趣 · 第10局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L37"
+  },
+  {
+    "id": "shiqingyaqu-551-021",
+    "title": "尽善克终",
+    "fen": "3ak4/3RaR3/4b3N/6N2/2b6/9/3pP4/B3C1n1B/2rp2r2/4K4 w 0 1",
+    "source": "适情雅趣 · 第21局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L81"
+  },
+  {
+    "id": "shiqingyaqu-551-024",
+    "title": "垂缰救主",
+    "fen": "2bak4/4a4/9/4pNpNn/6b2/9/4P4/3p5/crR1K3C/2nr2B2 w 0 1",
+    "source": "适情雅趣 · 第24局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L93"
+  },
+  {
+    "id": "shiqingyaqu-551-025",
+    "title": "患在几席",
+    "fen": "2Rakc3/4aR3/4b1n2/4C4/6b2/2B6/4c4/2n1B3C/1r2A1p2/4KA3 w 0 1",
+    "source": "适情雅趣 · 第25局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L97"
+  },
+  {
+    "id": "shiqingyaqu-551-035",
+    "title": "龙翻潭底",
+    "fen": "1Cbaka3/1R7/2n1b4/2N1p4/9/3R5/4P1r2/4C3B/4Ar1n1/2BAK3c w 0 1",
+    "source": "适情雅趣 · 第35局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L137"
+  },
+  {
+    "id": "shiqingyaqu-551-046",
+    "title": "远交近攻",
+    "fen": "3k5/4aN3/2R2a3/5n3/2R6/9/1pP6/B1n1BA1N1/1r2A1p2/c4K3 w 0 1",
+    "source": "适情雅趣 · 第46局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L181"
+  },
+  {
+    "id": "shiqingyaqu-551-049",
+    "title": "独步出营",
+    "fen": "2b2a3/1P1k1P3/3a5/9/n1b6/9/9/4RA3/2C1Nr3/2p1KA1rc w 0 1",
+    "source": "适情雅趣 · 第49局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L193"
+  },
+  {
+    "id": "shiqingyaqu-551-051",
+    "title": "下车伏谒",
+    "fen": "R2akab2/3n3P1/1NC1b4/5R3/2p3p2/9/9/5p3/4r3r/5K3 w 0 1",
+    "source": "适情雅趣 · 第51局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L201"
+  },
+  {
+    "id": "shiqingyaqu-551-058",
+    "title": "中外二圣",
+    "fen": "4kab1r/4a4/4b4/CR2R4/8r/2C6/9/9/c3p4/5K3 w 0 1",
+    "source": "适情雅趣 · 第58局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L229"
+  },
+  {
+    "id": "shiqingyaqu-551-066",
+    "title": "见危致命",
+    "fen": "1rbak3r/1N1Ra4/cR2b1N2/9/9/9/9/9/5p3/4K4 w 0 1",
+    "source": "适情雅趣 · 第66局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L261"
+  },
+  {
+    "id": "shiqingyaqu-551-069",
+    "title": "举趾触罝",
+    "fen": "C3kC3/2PRa4/1n5P1/9/9/1N5N1/9/3p5/4r2r1/3K5 w 0 1",
+    "source": "适情雅趣 · 第69局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L273"
+  },
+  {
+    "id": "shiqingyaqu-551-074",
+    "title": "登高履险",
+    "fen": "2R6/C2Rak3/4b3b/9/1r7/4P4/3p5/9/4rp3/3K5 w 0 1",
+    "source": "适情雅趣 · 第74局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L293"
+  },
+  {
+    "id": "shiqingyaqu-551-087",
+    "title": "开渠引水",
+    "fen": "3a3R1/5kC2/P1P6/9/9/1p7/1r7/3R5/5r3/3K5 w 0 1",
+    "source": "适情雅趣 · 第87局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L345"
+  },
+  {
+    "id": "shiqingyaqu-551-094",
+    "title": "负笈追师",
+    "fen": "2baka3/1R7/4b2nn/4R2CN/4N4/9/9/5p3/2rc4r/5K3 w 0 1",
+    "source": "适情雅趣 · 第94局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L373"
+  },
+  {
+    "id": "shiqingyaqu-551-096",
+    "title": "勇退急流",
+    "fen": "3akc3/4a4/4b1n2/C2RR2N1/4C4/5r3/9/3pB2r1/4p4/3K5 w 0 1",
+    "source": "适情雅趣 · 第96局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L381"
+  },
+  {
+    "id": "shiqingyaqu-551-099",
+    "title": "偷营劫寨",
+    "fen": "c2a1k3/3Ra4/4c1P2/7R1/9/9/9/1C2B4/1r7/2BK5 w 0 1",
+    "source": "适情雅趣 · 第99局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L393"
+  },
+  {
+    "id": "shiqingyaqu-551-104",
+    "title": "径行自遂",
+    "fen": "6b2/1N3k2C/5a3/3R5/9/R8/9/4c1n2/3p5/3AKAr1c w 0 1",
+    "source": "适情雅趣 · 第104局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L413"
+  },
+  {
+    "id": "shiqingyaqu-551-109",
+    "title": "欲罢不能",
+    "fen": "2na1kb1R/2R6/4ba3/4C4/7r1/2C6/4c3P/4B4/4A3p/3AK3c w 0 1",
+    "source": "适情雅趣 · 第109局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L433"
+  },
+  {
+    "id": "shiqingyaqu-551-110",
+    "title": "料事多中",
+    "fen": "3akaP2/9/4bR3/4p3C/7N1/9/3p5/4B4/3rApp2/c1NAK4 w 0 1",
+    "source": "适情雅趣 · 第110局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L437"
+  },
+  {
+    "id": "shiqingyaqu-551-114",
+    "title": "践履笃实",
+    "fen": "2bak2r1/C3a4/1N2b3c/4p2N1/9/2R6/9/2n6/3pA4/c1rAK3R w 0 1",
+    "source": "适情雅趣 · 第114局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L453"
+  },
+  {
+    "id": "shiqingyaqu-551-122",
+    "title": "地富兵强",
+    "fen": "4kabC1/4a4/4b2N1/5P3/9/9/9/6Cr1/R1pp4r/R3K4 w 0 1",
+    "source": "适情雅趣 · 第122局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L485"
+  },
+  {
+    "id": "shiqingyaqu-551-124",
+    "title": "王俭坠车",
+    "fen": "3k1ab2/2R3N2/1r1a2R1b/4p4/2p1c1P2/9/N8/9/4r1p2/3K5 w 0 1",
+    "source": "适情雅趣 · 第124局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L493"
+  },
+  {
+    "id": "shiqingyaqu-551-137",
+    "title": "匹马平胡",
+    "fen": "3k1a1R1/9/2cab4/2n1R4/2b6/4P4/3N5/3CB4/1r1p4r/4K4 w 0 1",
+    "source": "适情雅趣 · 第137局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L545"
+  },
+  {
+    "id": "shiqingyaqu-551-139",
+    "title": "并驾连驱",
+    "fen": "C4k3/4a4/5a3/9/4N4/1p3RN1c/4c4/2p1C4/1rn4r1/3K1R3 w 0 1",
+    "source": "适情雅趣 · 第139局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L553"
+  },
+  {
+    "id": "shiqingyaqu-551-145",
+    "title": "开门待战",
+    "fen": "CnC1k4/9/7P1/4p4/p5p2/6B1r/1R4Pr1/4BAN2/6p2/5K3 w 0 1",
+    "source": "适情雅趣 · 第145局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L577"
+  },
+  {
+    "id": "shiqingyaqu-551-148",
+    "title": "拨乱反正",
+    "fen": "2R6/C2Rak3/4ba2b/P8/1r7/9/2p1p4/3An1p2/3KA4/2r6 w 0 1",
+    "source": "适情雅趣 · 第148局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L589"
+  },
+  {
+    "id": "shiqingyaqu-551-154",
+    "title": "外攘四夷",
+    "fen": "3a1k2C/3ra4/4b4/9/6b1N/6cR1/9/3n5/4r4/3K2cR1 w 0 1",
+    "source": "适情雅趣 · 第154局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L613"
+  },
+  {
+    "id": "shiqingyaqu-551-156",
+    "title": "三献刖足",
+    "fen": "3k5/1PR1a4/2Nab3b/6C2/9/4n4/9/9/2cp5/1rc1K2R1 w 0 1",
+    "source": "适情雅趣 · 第156局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L621"
+  },
+  {
+    "id": "shiqingyaqu-551-158",
+    "title": "暴虎凭河",
+    "fen": "C3kab2/4a4/N3b4/2N6/9/3C5/9/3A2r2/3K3c1/3A2n1c w 0 1",
+    "source": "适情雅趣 · 第158局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L629"
+  },
+  {
+    "id": "shiqingyaqu-551-159",
+    "title": "前后绝伦",
+    "fen": "3ak4/4a4/4b4/6N2/9/3rC4/4c4/4BR2C/1n1rA4/4KA3 w 0 1",
+    "source": "适情雅趣 · 第159局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L633"
+  },
+  {
+    "id": "shiqingyaqu-551-161",
+    "title": "远害全身",
+    "fen": "9/3k5/R2abN2C/C3P4/2b6/9/9/4p4/2r6/cr1AK4 w 0 1",
+    "source": "适情雅趣 · 第161局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L641"
+  },
+  {
+    "id": "shiqingyaqu-551-167",
+    "title": "功成略地",
+    "fen": "2b1ka3/1R2a1P2/4b4/5R2C/4N4/4n4/9/4p4/1r5r1/4K4 w 0 1",
+    "source": "适情雅趣 · 第167局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L665"
+  },
+  {
+    "id": "shiqingyaqu-551-169",
+    "title": "阴陵失道",
+    "fen": "2b1R2c1/R3a4/1n2kaN2/4p4/2bP5/6C2/9/9/3r1r3/4K4 w 0 1",
+    "source": "适情雅趣 · 第169局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L673"
+  },
+  {
+    "id": "shiqingyaqu-551-177",
+    "title": "声势相倚",
+    "fen": "3k5/8C/9/p6R1/7R1/9/9/4B4/r2rA4/4KAB2 w 0 1",
+    "source": "适情雅趣 · 第177局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L705"
+  },
+  {
+    "id": "shiqingyaqu-551-183",
+    "title": "远遁边境",
+    "fen": "c3k3C/2P6/1P6b/9/9/2C6/9/3RBr3/1p2r4/2BK5 w 0 1",
+    "source": "适情雅趣 · 第183局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L729"
+  },
+  {
+    "id": "shiqingyaqu-551-190",
+    "title": "乘风吹火",
+    "fen": "3ak4/c3a3R/5c2N/6C2/6b2/9/9/9/1r3p3/4K2R1 w 0 1",
+    "source": "适情雅趣 · 第190局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L757"
+  },
+  {
+    "id": "shiqingyaqu-551-191",
+    "title": "劳问将士",
+    "fen": "3k1a3/1NR2n3/3a5/1r4CC1/2b6/9/9/9/1c1p3r1/4K4 w 0 1",
+    "source": "适情雅趣 · 第191局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L761"
+  },
+  {
+    "id": "shiqingyaqu-551-201",
+    "title": "三请诸葛",
+    "fen": "3ak1P1P/4a4/9/9/4p3C/c3C1R2/9/5p3/2rp5/4K1R2 w 0 1",
+    "source": "适情雅趣 · 第201局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L801"
+  },
+  {
+    "id": "shiqingyaqu-551-204",
+    "title": "雷震八荒",
+    "fen": "R1C6/2P6/b2ak4/6P2/6b2/6B2/9/c4K2n/9/2rR2r2 w 0 1",
+    "source": "适情雅趣 · 第204局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L813"
+  },
+  {
+    "id": "shiqingyaqu-551-205",
+    "title": "四畏廉名",
+    "fen": "3aka3/9/4b2Rc/4P2N1/6b2/7C1/9/9/2nrA4/4KA3 w 0 1",
+    "source": "适情雅趣 · 第205局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L817"
+  },
+  {
+    "id": "shiqingyaqu-551-209",
+    "title": "叁参见佛",
+    "fen": "4ka3/3Rn4/4b1r2/N1p6/1nP6/9/9/3C5/5r1p1/4K3c w 0 1",
+    "source": "适情雅趣 · 第209局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L833"
+  },
+  {
+    "id": "shiqingyaqu-551-214",
+    "title": "阻住行程",
+    "fen": "r2aka3/7rC/1R2b4/3N5/9/9/9/p7B/5pp2/4K4 w 0 1",
+    "source": "适情雅趣 · 第214局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L853"
+  },
+  {
+    "id": "shiqingyaqu-551-225",
+    "title": "循序渐进",
+    "fen": "3k5/1R2n1P2/2R1b4/9/r2P5/7N1/9/9/4r3C/3K5 w 0 1",
+    "source": "适情雅趣 · 第225局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L897"
+  },
+  {
+    "id": "shiqingyaqu-551-226",
+    "title": "脱网逢钩",
+    "fen": "4k4/4a4/4Pa3/4p1pCR/3N5/9/9/5p3/6r2/5K3 w 0 1",
+    "source": "适情雅趣 · 第226局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L901"
+  },
+  {
+    "id": "shiqingyaqu-551-230",
+    "title": "猛虎入山",
+    "fen": "2bakcb2/4a4/9/2N6/1C7/3R5/4R4/4K4/5r3/2n2r3 w 0 1",
+    "source": "适情雅趣 · 第230局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L917"
+  },
+  {
+    "id": "shiqingyaqu-551-234",
+    "title": "停车绊马",
+    "fen": "n4k3/1R7/3a5/2N6/9/2C5R/5n3/9/r4cp1r/4K4 w 0 1",
+    "source": "适情雅趣 · 第234局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L933"
+  },
+  {
+    "id": "shiqingyaqu-551-241",
+    "title": "凭马渡江",
+    "fen": "2b2a3/C3a4/3kb4/9/9/5RN2/9/1C7/r2r1p3/4K4 w 0 1",
+    "source": "适情雅趣 · 第241局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L961"
+  },
+  {
+    "id": "shiqingyaqu-551-244",
+    "title": "祸生肘腋",
+    "fen": "1R1a5/2P1k4/1n2b4/4c4/9/9/9/2C5R/4r1r2/5K3 w 0 1",
+    "source": "适情雅趣 · 第244局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L973"
+  },
+  {
+    "id": "shiqingyaqu-551-248",
+    "title": "同心赞政",
+    "fen": "6R2/5k3/5a3/5R3/6p2/9/9/4rC2B/2n6/5KBr1 w 0 1",
+    "source": "适情雅趣 · 第248局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L989"
+  },
+  {
+    "id": "shiqingyaqu-551-250",
+    "title": "雁阵排空",
+    "fen": "6c2/5k3/1N2b4/4C4/2b2C3/3R5/9/6n2/7r1/4K3c w 0 1",
+    "source": "适情雅趣 · 第250局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L997"
+  },
+  {
+    "id": "shiqingyaqu-551-253",
+    "title": "二龙绕室",
+    "fen": "3a1kb2/4a4/4b4/5NN2/9/9/9/8C/3r4c/4K1n2 w 0 1",
+    "source": "适情雅趣 · 第253局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1009"
+  },
+  {
+    "id": "shiqingyaqu-551-256",
+    "title": "车行同轨",
+    "fen": "4k4/C8/3R5/9/9/9/9/3RB1n2/1r2r4/3K5 w 0 1",
+    "source": "适情雅趣 · 第256局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1021"
+  },
+  {
+    "id": "shiqingyaqu-551-259",
+    "title": "阴持两端",
+    "fen": "3k5/9/9/8p/9/2R3B1r/9/4BA3/6r2/2R2K3 w 0 1",
+    "source": "适情雅趣 · 第259局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1033"
+  },
+  {
+    "id": "shiqingyaqu-551-263",
+    "title": "增补隘口",
+    "fen": "4k4/4a3R/4Pa3/7C1/4p4/9/9/2r6/5r3/3K5 w 0 1",
+    "source": "适情雅趣 · 第263局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1049"
+  },
+  {
+    "id": "shiqingyaqu-551-266",
+    "title": "入穴取虎",
+    "fen": "3k1a3/9/3a5/3rRN2C/9/9/9/6n2/5r3/4K4 w 0 1",
+    "source": "适情雅趣 · 第266局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1061"
+  },
+  {
+    "id": "shiqingyaqu-551-270",
+    "title": "杨香跨虎",
+    "fen": "N2k1ab2/2R1a4/2R6/9/9/5r3/9/5n3/4r4/5K3 w 0 1",
+    "source": "适情雅趣 · 第270局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1077"
+  },
+  {
+    "id": "shiqingyaqu-551-273",
+    "title": "舍命如归",
+    "fen": "9/r2k5/1R1ab4/3N5/2b6/1C7/9/3n1p3/9/5K3 w 0 1",
+    "source": "适情雅趣 · 第273局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1089"
+  },
+  {
+    "id": "shiqingyaqu-551-275",
+    "title": "打草惊蛇",
+    "fen": "2raka3/9/9/4C1NRp/9/9/9/5p3/3p5/4K4 w 0 1",
+    "source": "适情雅趣 · 第275局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1097"
+  },
+  {
+    "id": "shiqingyaqu-551-278",
+    "title": "异地同心",
+    "fen": "5k3/8P/4ra3/9/9/9/9/5R1R1/4r4/5K3 w 0 1",
+    "source": "适情雅趣 · 第278局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1109"
+  },
+  {
+    "id": "shiqingyaqu-551-280",
+    "title": "将机就机",
+    "fen": "3ak4/1C2aR3/2n1c4/7N1/9/7R1/9/4C4/4A1rnr/3AK3c w 0 1",
+    "source": "适情雅趣 · 第280局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1117"
+  },
+  {
+    "id": "shiqingyaqu-551-282",
+    "title": "前后一辙",
+    "fen": "4ka3/4aR3/4N1C1b/c1p1p4/9/9/2N1P1R2/5C3/r1rp5/5K3 w 0 1",
+    "source": "适情雅趣 · 第282局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1125"
+  },
+  {
+    "id": "shiqingyaqu-551-283",
+    "title": "一举而定",
+    "fen": "1r1akab2/5R3/4b1n2/7N1/9/2B6/2r1P4/B2RC4/3KA4/c8 w 0 1",
+    "source": "适情雅趣 · 第283局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1129"
+  },
+  {
+    "id": "shiqingyaqu-551-287",
+    "title": "夺马驱敌",
+    "fen": "2bk1a2r/4an3/cR2b3N/p3CR3/2p1p4/1C7/4Pp2P/2c1B4/3pr4/2B2K3 w 0 1",
+    "source": "适情雅趣 · 第287局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1145"
+  },
+  {
+    "id": "shiqingyaqu-551-291",
+    "title": "城门失火",
+    "fen": "3ak1Cnr/2P4Rn/3a5/9/9/C8/9/2p1B4/4rp3/3K5 w 0 1",
+    "source": "适情雅趣 · 第291局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1161"
+  },
+  {
+    "id": "shiqingyaqu-551-294",
+    "title": "勤劳一纪",
+    "fen": "4ka2R/3na4/2rcb3n/1R3N1NC/2b4P1/9/9/6pr1/7p1/5K3 w 0 1",
+    "source": "适情雅趣 · 第294局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1173"
+  },
+  {
+    "id": "shiqingyaqu-551-299",
+    "title": "参前倚衡",
+    "fen": "r2k1a3/3na1R2/3cb1c2/3N1R3/6P2/3C5/9/B4p2B/2p3r2/4K4 w 0 1",
+    "source": "适情雅趣 · 第299局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1193"
+  },
+  {
+    "id": "shiqingyaqu-551-305",
+    "title": "众星拱月",
+    "fen": "2baR1cNC/R8/5k3/8p/3r1n3/2p6/P1P5P/4C3B/2p1A1r1c/4KA3 w 0 1",
+    "source": "适情雅趣 · 第305局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1217"
+  },
+  {
+    "id": "shiqingyaqu-551-309",
+    "title": "三军联位",
+    "fen": "1P1ak1b2/4a4/4b4/6p2/2N4N1/1C2C4/6P2/r2ppp3/9/c3K4 w 0 1",
+    "source": "适情雅趣 · 第309局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1233"
+  },
+  {
+    "id": "shiqingyaqu-551-311",
+    "title": "金鸡抱卵",
+    "fen": "3k1ab2/2R1aP3/2n1b3r/9/5R3/9/3r5/N3B4/4AC3/4K3c w 0 1",
+    "source": "适情雅趣 · 第311局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1241"
+  },
+  {
+    "id": "shiqingyaqu-551-313",
+    "title": "马跳澶溪",
+    "fen": "3ak4/4a4/b3b3P/9/4N2R1/9/2p6/1p1AB4/3KA4/n3r1B2 w 0 1",
+    "source": "适情雅趣 · 第313局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1249"
+  },
+  {
+    "id": "shiqingyaqu-551-321",
+    "title": "好勇不矜",
+    "fen": "5kbc1/9/P5n1r/1RN6/9/9/3p1p3/R3C1r1B/2n6/5K3 w 0 1",
+    "source": "适情雅趣 · 第321局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1281"
+  },
+  {
+    "id": "shiqingyaqu-551-329",
+    "title": "虹霓贯日",
+    "fen": "2b1kab1r/C3a4/9/PN7/9/3p5/9/C8/5p1p1/2B1K2c1 w 0 1",
+    "source": "适情雅趣 · 第329局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1313"
+  },
+  {
+    "id": "shiqingyaqu-551-335",
+    "title": "蝶恋花心",
+    "fen": "4R4/3k4r/4b4/7P1/6b2/7p1/9/C7B/4A2r1/2B1KA1p1 w 0 1",
+    "source": "适情雅趣 · 第335局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1337"
+  },
+  {
+    "id": "shiqingyaqu-551-341",
+    "title": "兵马侵境",
+    "fen": "2ba1a3/4k4/b1R2N2P/9/4P4/9/3r1p3/3A5/3pp4/5K3 w 0 1",
+    "source": "适情雅趣 · 第341局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1361"
+  },
+  {
+    "id": "shiqingyaqu-551-344",
+    "title": "深入敌境",
+    "fen": "C8/C2Pak3/3cba2b/9/9/9/2R2p1r1/9/4r2p1/5K3 w 0 1",
+    "source": "适情雅趣 · 第344局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1373"
+  },
+  {
+    "id": "shiqingyaqu-551-347",
+    "title": "朝野从容",
+    "fen": "4kr3/4a2R1/3ab3b/9/6P2/9/4r4/1R2C4/5p2c/3K5 w 0 1",
+    "source": "适情雅趣 · 第347局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1385"
+  },
+  {
+    "id": "shiqingyaqu-551-355",
+    "title": "一虎下山",
+    "fen": "9/3Pak1P1/5a3/9/4N4/9/9/4B4/1p2rp3/2BK5 w 0 1",
+    "source": "适情雅趣 · 第355局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1417"
+  },
+  {
+    "id": "shiqingyaqu-551-362",
+    "title": "视死如归",
+    "fen": "r2k5/9/2P6/9/6bN1/4R4/9/2np1pn2/4K4/9 w 0 1",
+    "source": "适情雅趣 · 第362局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1445"
+  },
+  {
+    "id": "shiqingyaqu-551-369",
+    "title": "兔游月窟",
+    "fen": "6R2/3P1k3/3a1a3/9/9/6B2/9/B1r6/5p3/4K4 w 0 1",
+    "source": "适情雅趣 · 第369局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1473"
+  },
+  {
+    "id": "shiqingyaqu-551-372",
+    "title": "兵入其腹",
+    "fen": "5k3/3P5/3a1a3/9/9/9/p3r3p/C6R1/5K3/9 w 0 1",
+    "source": "适情雅趣 · 第372局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1485"
+  },
+  {
+    "id": "shiqingyaqu-551-376",
+    "title": "勒兵为备",
+    "fen": "3a1k3/4a4/9/n7c/6P2/2C4N1/9/5A3/5r3/4K4 w 0 1",
+    "source": "适情雅趣 · 第376局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1501"
+  },
+  {
+    "id": "shiqingyaqu-551-380",
+    "title": "二马追风",
+    "fen": "5k3/7P1/9/1NN6/9/9/2p1p4/3K1p3/9/9 w 0 1",
+    "source": "适情雅趣 · 第380局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1517"
+  },
+  {
+    "id": "shiqingyaqu-551-384",
+    "title": "剪棘开径",
+    "fen": "4k4/P3a4/5r3/9/9/9/p8/7R1/4K4/9 w 0 1",
+    "source": "适情雅趣 · 第384局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1533"
+  },
+  {
+    "id": "shiqingyaqu-551-385",
+    "title": "投肉饲虎",
+    "fen": "3k1c3/4R4/5r3/9/9/9/9/1p7/4A3C/4K4 w 0 1",
+    "source": "适情雅趣 · 第385局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1537"
+  },
+  {
+    "id": "shiqingyaqu-551-389",
+    "title": "身无所措",
+    "fen": "4ka3/4a4/9/9/9/1R7/4pp3/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第389局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1553"
+  },
+  {
+    "id": "shiqingyaqu-551-392",
+    "title": "驱虎离山",
+    "fen": "4k4/9/9/9/9/9/9/3pp4/8R/2p1K4 w 0 1",
+    "source": "适情雅趣 · 第392局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1565"
+  },
+  {
+    "id": "shiqingyaqu-551-394",
+    "title": "兵势尚强",
+    "fen": "3ak4/9/4r4/5P3/9/2R6/9/9/9/3K5 w 0 1",
+    "source": "适情雅趣 · 第394局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1573"
+  },
+  {
+    "id": "shiqingyaqu-551-395",
+    "title": "地险兵强",
+    "fen": "3R5/4r4/5k3/4p4/9/8P/9/4K4/9/9 w 0 1",
+    "source": "适情雅趣 · 第395局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1577"
+  },
+  {
+    "id": "shiqingyaqu-551-397",
+    "title": "一兵取功",
+    "fen": "9/3P5/5k3/8R/2b1r4/9/9/9/9/3K5 w 0 1",
+    "source": "适情雅趣 · 第397局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1585"
+  },
+  {
+    "id": "shiqingyaqu-551-400",
+    "title": "避难而行",
+    "fen": "2b1ka3/4a4/4b4/1N2p3p/2NC5/5n3/4c1PCc/4p4/5K3/9 w 0 1",
+    "source": "适情雅趣 · 第400局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1597"
+  },
+  {
+    "id": "shiqingyaqu-551-404",
+    "title": "二郎搜山",
+    "fen": "2ba1kbn1/2P6/5a3/2p3p1N/9/9/9/9/4K4/2B3B2 w 0 1",
+    "source": "适情雅趣 · 第404局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1613"
+  },
+  {
+    "id": "shiqingyaqu-551-410",
+    "title": "家无安堵",
+    "fen": "3a2b2/3ka4/4b4/9/9/2B3R2/9/B2A5/9/3AK4 w 0 1",
+    "source": "适情雅趣 · 第410局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1637"
+  },
+  {
+    "id": "shiqingyaqu-551-412",
+    "title": "痛断根除",
+    "fen": "2bak4/4a4/4b4/4P4/9/8R/4pp3/9/4A4/2B1K4 w 0 1",
+    "source": "适情雅趣 · 第412局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1645"
+  },
+  {
+    "id": "shiqingyaqu-551-414",
+    "title": "宁静待时",
+    "fen": "9/3k1P3/3a1a3/9/2b6/6B2/9/3AKA3/9/3C5 w 0 1",
+    "source": "适情雅趣 · 第414局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1653"
+  },
+  {
+    "id": "shiqingyaqu-551-419",
+    "title": "厩焚伤马",
+    "fen": "3nka3/4a4/8R/4R4/9/9/9/3ppp3/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第419局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1673"
+  },
+  {
+    "id": "shiqingyaqu-551-422",
+    "title": "内攻外御",
+    "fen": "C3ka3/4a4/1cC6/9/9/6B1P/p8/9/5p3/4K4 w 0 1",
+    "source": "适情雅趣 · 第422局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1685"
+  },
+  {
+    "id": "shiqingyaqu-551-426",
+    "title": "驱将擒胡",
+    "fen": "4k1b2/9/4b4/9/7Rp/9/8P/9/4K3c/9 w 0 1",
+    "source": "适情雅趣 · 第426局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1701"
+  },
+  {
+    "id": "shiqingyaqu-551-430",
+    "title": "上陵下替",
+    "fen": "3k5/5P3/3a1a2b/2N6/6b2/9/9/9/9/3K5 w 0 1",
+    "source": "适情雅趣 · 第430局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1717"
+  },
+  {
+    "id": "shiqingyaqu-551-431",
+    "title": "能为必胜",
+    "fen": "3a1k3/2R1a4/b8/9/2b6/9/9/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第431局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1721"
+  },
+  {
+    "id": "shiqingyaqu-551-433",
+    "title": "钳塞士口",
+    "fen": "3a5/5k3/2R1ba3/9/2b6/9/9/9/5K3/9 w 0 1",
+    "source": "适情雅趣 · 第433局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1729"
+  },
+  {
+    "id": "shiqingyaqu-551-435",
+    "title": "上下离心",
+    "fen": "2bak4/2R1a4/b8/9/9/9/9/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第435局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1737"
+  },
+  {
+    "id": "shiqingyaqu-551-436",
+    "title": "独行千里",
+    "fen": "3k1ab2/4a4/8b/9/9/9/9/9/4K4/8R w 0 1",
+    "source": "适情雅趣 · 第436局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1741"
+  },
+  {
+    "id": "shiqingyaqu-551-438",
+    "title": "斗柄回寅",
+    "fen": "5a3/4ak3/2R1b4/9/2b6/9/9/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第438局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1749"
+  },
+  {
+    "id": "shiqingyaqu-551-442",
+    "title": "国富兵强",
+    "fen": "3aka3/9/9/p8/4P4/2C6/9/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第442局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1765"
+  },
+  {
+    "id": "shiqingyaqu-551-448",
+    "title": "茕茕孑立",
+    "fen": "3a5/3Pak3/9/5P3/9/9/9/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第448局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1789"
+  },
+  {
+    "id": "shiqingyaqu-551-449",
+    "title": "游丝系虎",
+    "fen": "2bk5/R8/b7c/9/9/9/9/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第449局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1793"
+  },
+  {
+    "id": "shiqingyaqu-551-451",
+    "title": "驽驹失厩",
+    "fen": "2R6/3ka4/3a5/3n5/9/9/9/9/9/3K5 w 0 1",
+    "source": "适情雅趣 · 第451局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1801"
+  },
+  {
+    "id": "shiqingyaqu-551-453",
+    "title": "野马踅田",
+    "fen": "4ka3/4an3/9/9/4R4/9/9/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第453局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1809"
+  },
+  {
+    "id": "shiqingyaqu-551-455",
+    "title": "计罗并用",
+    "fen": "5k3/4a4/3a5/9/9/9/9/3K5/4C4/5C3 w 0 1",
+    "source": "适情雅趣 · 第455局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1817"
+  },
+  {
+    "id": "shiqingyaqu-551-457",
+    "title": "国士无双",
+    "fen": "3k5/4a4/5a3/9/9/9/9/3A1K3/9/4C4 w 0 1",
+    "source": "适情雅趣 · 第457局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1825"
+  },
+  {
+    "id": "shiqingyaqu-551-462",
+    "title": "三辰不轨",
+    "fen": "3ck4/4c4/4R4/9/9/9/9/9/9/3K5 w 0 1",
+    "source": "适情雅趣 · 第462局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1845"
+  },
+  {
+    "id": "shiqingyaqu-551-465",
+    "title": "侵害边卒",
+    "fen": "5k3/9/9/p8/9/4P4/9/2C6/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第465局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1857"
+  },
+  {
+    "id": "shiqingyaqu-551-466",
+    "title": "一木难支",
+    "fen": "4k4/4a4/9/4P4/9/9/9/9/4A4/4K4 w 0 1",
+    "source": "适情雅趣 · 第466局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1861"
+  },
+  {
+    "id": "shiqingyaqu-551-471",
+    "title": "公私安堵（马炮士相全和双车）",
+    "fen": "4k4/9/9/9/9/9/4r4/3NB4/4A1r2/3CKAB2 w 0 1",
+    "source": "适情雅趣 · 第471局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1881"
+  },
+  {
+    "id": "shiqingyaqu-551-473",
+    "title": "中外义安（车单缺士和车卒双象）",
+    "fen": "2b1k4/9/4b4/9/9/3R5/9/4B4/1r1p5/3AK1B2 w 0 1",
+    "source": "适情雅趣 · 第473局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1889"
+  },
+  {
+    "id": "shiqingyaqu-551-477",
+    "title": "一兵解危（高兵单仕和炮士象全）",
+    "fen": "5c3/4k4/3a1a3/6P2/2b3b2/9/9/5A3/5K3/9 w 0 1",
+    "source": "适情雅趣 · 第477局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1905"
+  },
+  {
+    "id": "shiqingyaqu-551-479",
+    "title": "虎溪三笑",
+    "fen": "4k4/9/9/1P7/2p3p2/9/7p1/4B4/4A4/3A1K3 w 0 1",
+    "source": "适情雅趣 · 第479局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1913"
+  },
+  {
+    "id": "shiqingyaqu-551-482",
+    "title": "众寡不敌（车卒难胜单车）",
+    "fen": "2b1k4/9/4b4/9/r8/9/9/9/p2R5/4KA3 w 0 1",
+    "source": "适情雅趣 · 第482局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1925"
+  },
+  {
+    "id": "shiqingyaqu-551-484",
+    "title": "保障坚牢（车炮双仕和双车）",
+    "fen": "3k5/9/9/9/4r4/9/9/5R3/2r1A4/3CKA3 w 0 1",
+    "source": "适情雅趣 · 第484局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1933"
+  },
+  {
+    "id": "shiqingyaqu-551-486",
+    "title": "三家鼎立（三兵双相守和单车）",
+    "fen": "4k4/9/9/PPP1r4/9/9/9/4B4/9/2B1K4 w 0 1",
+    "source": "适情雅趣 · 第486局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1941"
+  },
+  {
+    "id": "shiqingyaqu-551-489",
+    "title": "全师保安",
+    "fen": "3k5/9/9/9/9/2R6/6P1r/4BA3/6r2/2R2K3 w 0 1",
+    "source": "适情雅趣 · 第489局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1953"
+  },
+  {
+    "id": "shiqingyaqu-551-491",
+    "title": "保国宁家（仕相全对车）",
+    "fen": "4k4/9/9/9/9/2B6/9/B2A5/2r1A4/5K3 w 0 1",
+    "source": "适情雅趣 · 第491局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1961"
+  },
+  {
+    "id": "shiqingyaqu-551-494",
+    "title": "控马避敌（马兵双相和单车）",
+    "fen": "4k4/9/9/8r/9/1NB6/2P6/4B4/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第494局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1973"
+  },
+  {
+    "id": "shiqingyaqu-551-496",
+    "title": "士而怀居",
+    "fen": "9/5k3/4b4/9/4r4/3R5/9/3Ap4/3K5/9 w 0 1",
+    "source": "适情雅趣 · 第496局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1981"
+  },
+  {
+    "id": "shiqingyaqu-551-498",
+    "title": "三镇连兵（三兵和车象）",
+    "fen": "2b2k3/9/9/2PPP4/9/9/4r4/9/9/3K5 w 0 1",
+    "source": "适情雅趣 · 第498局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L1989"
+  },
+  {
+    "id": "shiqingyaqu-551-501",
+    "title": "士兵连结（车对双仕双兵）",
+    "fen": "4k4/9/9/4PP3/9/4r4/9/5A3/4AK3/9 w 0 1",
+    "source": "适情雅趣 · 第501局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2001"
+  },
+  {
+    "id": "shiqingyaqu-551-505",
+    "title": "只马当象（马相双仕和单车）",
+    "fen": "4k4/9/9/9/9/9/9/3N5/2r1A4/2B1KA3 w 0 1",
+    "source": "适情雅趣 · 第505局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2017"
+  },
+  {
+    "id": "shiqingyaqu-551-506",
+    "title": "仕卒离心（马低卒对单缺相）",
+    "fen": "4k4/9/9/9/9/6B2/9/3A5/3pAK1n1/9 w 0 1",
+    "source": "适情雅趣 · 第506局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2021"
+  },
+  {
+    "id": "shiqingyaqu-551-508",
+    "title": "影不离形（单车巧和车炮双士）",
+    "fen": "3rka3/4a4/2Rc5/9/9/9/9/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第508局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2029"
+  },
+  {
+    "id": "shiqingyaqu-551-510",
+    "title": "守正嫉邪（车双相和车炮）",
+    "fen": "9/4ck3/9/9/9/4R4/9/2r1B4/9/4K1B2 w 0 1",
+    "source": "适情雅趣 · 第510局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2037"
+  },
+  {
+    "id": "shiqingyaqu-551-511",
+    "title": "内外俱安（车双仕和双炮）",
+    "fen": "9/4ck3/9/9/3R5/2r6/9/5A3/4A4/4K4 w 0 1",
+    "source": "适情雅趣 · 第511局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2041"
+  },
+  {
+    "id": "shiqingyaqu-551-513",
+    "title": "收兵罢战（双卒对双相）",
+    "fen": "4k4/9/9/9/9/2B6/9/1p2B1p2/5K3/9 w 0 1",
+    "source": "适情雅趣 · 第513局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2049"
+  },
+  {
+    "id": "shiqingyaqu-551-515",
+    "title": "轻财爱士",
+    "fen": "4k4/9/9/9/9/9/9/3A2p2/3pAK3/9 w 0 1",
+    "source": "适情雅趣 · 第515局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2057"
+  },
+  {
+    "id": "shiqingyaqu-551-517",
+    "title": "匹马嘶风（马相兵和单车）",
+    "fen": "4k3N/9/1r7/9/9/9/4P4/4B4/4K4/9 w 0 1",
+    "source": "适情雅趣 · 第517局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2065"
+  },
+  {
+    "id": "shiqingyaqu-551-519",
+    "title": "长生不老（炮双兵和单车）",
+    "fen": "5k3/9/9/3PP4/9/9/6r2/4C4/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第519局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2073"
+  },
+  {
+    "id": "shiqingyaqu-551-522",
+    "title": "易马隐树（马双兵和单车）",
+    "fen": "4k4/9/4N4/3PP4/9/9/6r2/9/9/3K5 w 0 1",
+    "source": "适情雅趣 · 第522局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2085"
+  },
+  {
+    "id": "shiqingyaqu-551-525",
+    "title": "鼎足三立（三兵巧和单车）",
+    "fen": "4k4/9/9/4P4/4PP3/4r4/9/9/3K5/9 w 0 1",
+    "source": "适情雅趣 · 第525局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2097"
+  },
+  {
+    "id": "shiqingyaqu-551-528",
+    "title": "孤军四战",
+    "fen": "4k4/9/9/4p4/2N1r4/9/9/4B4/4K4/9 w 0 1",
+    "source": "适情雅趣 · 第528局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2109"
+  },
+  {
+    "id": "shiqingyaqu-551-529",
+    "title": "固守无虞（炮双相和单车）",
+    "fen": "4k4/9/9/9/9/4C4/6r2/4B4/9/4K1B2 w 0 1",
+    "source": "适情雅趣 · 第529局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2113"
+  },
+  {
+    "id": "shiqingyaqu-551-531",
+    "title": "固守邦基（车和炮双士）",
+    "fen": "3ck4/4a4/3a5/9/4R4/9/9/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第531局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2121"
+  },
+  {
+    "id": "shiqingyaqu-551-533",
+    "title": "三教皈一（单炮巧和三卒）",
+    "fen": "5k3/9/6C2/9/6p2/7p1/9/7p1/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第533局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2129"
+  },
+  {
+    "id": "shiqingyaqu-551-537",
+    "title": "子不离母（炮对炮双士）",
+    "fen": "4ca3/9/3ak4/9/9/9/9/3C5/3K5/9 w 0 1",
+    "source": "适情雅趣 · 第537局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2145"
+  },
+  {
+    "id": "shiqingyaqu-551-539",
+    "title": "独占中原",
+    "fen": "5k3/4R4/4cr3/9/9/9/9/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第539局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2153"
+  },
+  {
+    "id": "shiqingyaqu-551-541",
+    "title": "鸳鸯交颈（双马和单车）",
+    "fen": "4k4/9/9/9/9/4rN3/9/4N4/3K5/9 w 0 1",
+    "source": "适情雅趣 · 第541局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2161"
+  },
+  {
+    "id": "shiqingyaqu-551-543",
+    "title": "固前遮后(双炮巧和单车）",
+    "fen": "4k4/9/9/3r5/9/3C5/9/9/3K5/3C5 w 0 1",
+    "source": "适情雅趣 · 第543局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2169"
+  },
+  {
+    "id": "shiqingyaqu-551-544",
+    "title": "狐假虎威（单炮和双炮）",
+    "fen": "4c4/9/2c1k4/9/9/9/9/9/3K5/3C5 w 0 1",
+    "source": "适情雅趣 · 第544局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2173"
+  },
+  {
+    "id": "shiqingyaqu-551-547",
+    "title": "孤犊望月（单仕和单卒）",
+    "fen": "4k4/4a4/9/4P4/9/9/9/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第547局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2185"
+  },
+  {
+    "id": "shiqingyaqu-551-549",
+    "title": "两不得济（单兵对炮单士）",
+    "fen": "4c4/3ka4/9/3P5/9/9/9/9/5K3/9 w 0 1",
+    "source": "适情雅趣 · 第549局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2193"
+  },
+  {
+    "id": "shiqingyaqu-551-551",
+    "title": "势不两大（单马和单炮）",
+    "fen": "2c6/4k4/4N4/9/9/9/9/9/9/4K4 w 0 1",
+    "source": "适情雅趣 · 第551局",
+    "sourceUrl": "https://github.com/kuiba1949/xiangqi-tools/blob/a422f57cec467d2cc3e95a057ae0740a490f16f8/fen/shiqingyaqu551.fen#L2201"
+  }
+]

@@ -6,15 +6,21 @@
   "license": "GPL-3.0-or-later",
   "scripts": {
     "dev": "vite --host 127.0.0.1",
-    "build": "vite build",
-    "test": "node tests/rules.mjs && node tests/easy-ai.mjs"
+    "build": "node scripts/build.mjs",
+    "test": "node tests/rules.mjs && node tests/easy-ai.mjs && node tests/rooms.mjs && node tests/endgames.mjs",
+    "db:generate": "drizzle-kit generate"
   },
   "dependencies": {
+    "drizzle-orm": "^0.45.4",
     "xiangqiground": "0.1.0",
     "xiangqiops": "1.0.10"
   },
   "devDependencies": {
+    "drizzle-kit": "^0.31.11",
+    "esbuild": "^0.28.2",
     "vite": "^6.1.0"
   },
-  "description": "中国风象棋人机对战：七档棋力、悔棋、提示、棋谱与本地双击启动。"
+  "engines": {
+    "node": ">=22.13.0"
+  }
 }

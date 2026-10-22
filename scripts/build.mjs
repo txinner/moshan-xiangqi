@@ -1,0 +1,10 @@
+import {spawnSync} from 'node:child_process';
+import {mkdir,cp,writeFile,readFile} from 'node:fs/promises';
+import {build} from 'esbuild';
+const vite=spawnSync(process.execPath,['node_modules/vite/bin/vite.js','build'],{stdio:'inherit'});if(vite.status!==0)process.exit(vite.status||1);
+await mkdir('dist/server',{recursive:true});await mkdir('dist/.openai',{recursive:true});
+await build({entryPoints:['worker/index.js'],outfile:'dist/server/index.js',bundle:true,format:'esm',platform:'browser',target:'es2022'});
+const hosting=await readFile('.openai/hosting.json','utf8').then(JSON.parse).catch(error=>{if(error.code==='ENOENT')return {d1:'DB',r2:null};throw error;});
+await writeFile('dist/.openai/hosting.json',JSON.stringify(hosting,null,2));await cp('drizzle','dist/.openai/drizzle',{recursive:true});
+await writeFile('dist/server/wrangler.json',JSON.stringify({name:'moshan-xiangqi',main:'index.js',compatibility_date:'2026-06-01',assets:{directory:'../client',binding:'ASSETS',run_worker_first:['/api/*']},d1_databases:[{binding:hosting.d1||'DB',database_name:'moshan-rooms',database_id:'00000000-0000-4000-8000-000000000000'}]},null,2));
+console.log('Built client assets, room Worker, and D1 migrations.');
